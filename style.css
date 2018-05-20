@@ -4,9 +4,18 @@ body{
 
 .pills {
     padding-top:5px;
+    
+}
+
+.purple{
+    background-color:#4c14fe
 }
 
 #name {
     
     color:whitesmoke
+}
+
+.purp:hover {
+   color:whitesmoke
 }
