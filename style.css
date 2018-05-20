@@ -3,5 +3,10 @@ body{
 }
 
 .pills {
-    padding-top:3px;
+    padding-top:5px;
+}
+
+#name {
+    
+    color:whitesmoke
 }
