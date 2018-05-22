@@ -13,7 +13,16 @@ body{
 
 #name {
     
-    color:whitesmoke
+    color:whitesmoke;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+#pname {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.purpname {
+    font-family: 'IBM Plex Sans', sans-serif;
 }
 
 .purp:hover {
