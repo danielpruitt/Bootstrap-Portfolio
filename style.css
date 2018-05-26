@@ -1,5 +1,5 @@
 body{
-    background-image: url(assets/escheresque.png)
+    background-image: url(assets/ep_naturalblack.png)
 }
 
 .pills {
@@ -8,7 +8,10 @@ body{
 }
 
 .purple{
-    background-color:#4c14fe
+    background-color:#4c14fe;
+    margin-bottom:50px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    color:whitesmoke;
 }
 
 #name {
@@ -17,14 +20,15 @@ body{
     font-family: 'IBM Plex Sans', sans-serif;
 }
 
-#pname {
-    font-family: 'IBM Plex Sans', sans-serif;
-}
-
-.purpname {
-    font-family: 'IBM Plex Sans', sans-serif;
-}
 
 .purp:hover {
    color:whitesmoke
+}
+
+#whitesmoke{
+    color:whitesmoke;
+}
+
+.smokey {
+    color:whitesmoke
 }
