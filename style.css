@@ -1,5 +1,6 @@
 body{
     background-image: url(assets/ep_naturalblack.png)
+    
 }
 
 .pills {
@@ -33,4 +34,11 @@ body{
 
 .smokey {
     color:whitesmoke
+}
+
+.foot {
+    position: fixed;
+    bottom:0;
+    left:0;
+    width:100%
 }
